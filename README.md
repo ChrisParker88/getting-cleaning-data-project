@@ -10,7 +10,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 ###Altering the run_analysis.R code for use on your local machine
 
-Change the directory in line 1 of the code to the appropriate location for creating foldes and files for use in this analysis.
+Change the directory in line 1 of the code to the appropriate location for creating folders and files for use in this analysis.
 
 ###Project requirements
 
